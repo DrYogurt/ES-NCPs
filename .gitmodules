@@ -1,0 +1,3 @@
+[submodule "gym-cartpole-continuous"]
+	path = gym-cartpole-continuous
+	url = https://github.com/mmcaulif/gymnasium-cartpole-continuous.git
